@@ -5,6 +5,6 @@
   <title>Document</title>
 </head>
 <body>
-  Hello Git!
+  <h1>Test from git</h1>
 </body>
 </html>
